@@ -33,5 +33,5 @@ if (!AUTH) {
 console.clear();
 console.log(chalk.blue(chalk.bold(`System`)), (chalk.white(`>>`)), (chalk.green(`Starting Up`)))
 console.log(`\u001b[0m`)
-console.log(chalk.blue(chalk.bold(`©4btin Streaming Bot`)), (chalk.white(`|`)), (chalk.green(`2005 - ${new Date().getFullYear()}`)), (chalk.white(`|`)), (chalk.red(`All Rights Reserved`)))
+console.log(chalk.blue(chalk.bold(`©4btin Automod Bot`)), (chalk.white(`|`)), (chalk.green(`2005 - ${new Date().getFullYear()}`)), (chalk.white(`|`)), (chalk.red(`All Rights Reserved`)))
 console.log(`\u001b[0m`)
